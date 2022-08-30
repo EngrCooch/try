@@ -1,0 +1,30 @@
+body{
+    font-family: Arial;
+    background: #ffe6ff;
+}
+header{
+    padding: 30 px;
+    margin:15 px;
+    text-align: center;
+    background:violet;
+}
+nav{
+    background-color: lavenderblush;
+    padding: 15 px;
+    margin:15 px;
+    text-align: center;
+}
+.contentsection{
+    background-color: palevioletred;
+    margin:15 px;
+    padding: 20px;
+}
+.secondsection{
+    background-color: pink;
+    margin: 15 px;
+    padding: 20 px;
+}
+footer{
+    padding:15px;
+    text-align: center; background-color: antiquewhite; margin: 15px;
+}
